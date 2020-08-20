@@ -14,7 +14,7 @@ Colors["pipe_D_small"] = "linear-gradient(to right, gray 33%,darkred 33%, darkre
 Colors["pipe_L_small"] = "linear-gradient(to bottom, gray 33%,darkred 33%, darkred 67%, gray 67%)"
 Colors["pipe_R_small"] = "linear-gradient(to bottom, gray 33%,darkred 33%, darkred 67%, gray 67%)"
 Colors["split"] = "black"
-Colors["wall"] = "white"
+Colors["wall"] = "pink"
 Colors["tap"] = "green"
 Colors["tap_active"] = "yellow"
 export default Colors;
