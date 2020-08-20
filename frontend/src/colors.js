@@ -1,5 +1,5 @@
 let Colors = []
-Colors["blank"] = "gray"
+Colors["blank"] = "Blue"
 Colors["active"] = "brown"
 Colors["pipe_U_large"] = "linear-gradient(to right, gray 5%,darkred 5%,darkred 95%, gray 95%)"
 Colors["pipe_D_large"] = "linear-gradient(to right, gray 5%,darkred 5%, darkred 95%, gray 95%)"
